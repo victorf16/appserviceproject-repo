@@ -1,0 +1,34 @@
+# Bytecode do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+env/
+venv/
+ENV/
+.venv/
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/
+
+# Logs e dumps
+*.log
+*.pot
+*.pid
+
+# bak and old files
+*.tmp
+*.bak
+*.orig
+*.old
+
+# build
+.pytest_cache/
+
+dist/
+build/
+
+.env
+.env.*
