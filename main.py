@@ -8,7 +8,7 @@ continuosIntegrationTools = {
 
     1:{
 
-        "title": "Continuos Integration - V2",
+        "title": "Continuos Integration - V2.1",
         "relevanceLevel":1,
         "description": "Automate test and builds to increase efficiency."
 
